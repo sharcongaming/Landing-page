@@ -1,6 +1,7 @@
 const express = require('express');
 const Web3 = require('web3');
 require('dotenv').config();
+const Web3 = require('web3');
 
 const app = express();
 const port = 3000;
